@@ -1,0 +1,14 @@
+layout_spectrum: 0.09017809014767408
+typography_spectrum: 0.8937466160859913
+color:
+  brandStrength: 0.11720529035665095
+  lightness: 0.4116334398277104
+  saturation: 0.5605648101773113
+  rhythmicContrast: 0.0485200637485832
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: WitDrawn
